@@ -1,0 +1,57 @@
+# =========================
+# Data Processing
+# =========================
+numpy
+pandas
+scipy
+
+# =========================
+# Visualization / EDA
+# =========================
+matplotlib
+seaborn
+
+# =========================
+# Machine Learning
+# =========================
+scikit-learn
+xgboost
+
+# =========================
+# Model Saving
+# =========================
+joblib
+
+# =========================
+# Explainable AI
+# =========================
+shap
+
+# =========================
+# API / Backend
+# =========================
+fastapi
+uvicorn[standard]
+pydantic
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+psycopg2-binary
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Testing
+# =========================
+pytest
+httpx
+
+# =========================
+# MLOps / Experiment Tracking
+# =========================
+mlflow
